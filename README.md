@@ -1,7 +1,7 @@
 
 ## 🍭・Bot em Discord.js v13 em SlashCommands com conexão ao banco de dados MongoDB.
 
- O projeto contém 13 comandos ao total.
+ O projeto contém 14 comandos ao total.
 ### Economia:
 - Atm
 - Casar
@@ -17,6 +17,7 @@
 - Work
 ### Outros:
 - Ping
+- Help
 
 ## 🍙・Packages usadas:
 - [Discord.js@13.6.0](https://www.npmjs.com/package/discord.js)
