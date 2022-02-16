@@ -14,6 +14,6 @@ client.slashCommands = new Discord.Collection();
 
 require("./Handler")(client);
 
-client.MongoConnect = () => mongo.connect(config.BotToken)
+client.MongoConnect = () => mongo.connect(config.MongoURL)
 
-client.login(config.MongoURL);
+client.login(config.BotToken);
