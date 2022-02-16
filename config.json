@@ -1,0 +1,4 @@
+{
+ "BotToken": "O token do seu bot aqui.",
+ "MongoURL": "String de conexão do MongoDB aqui."
+}
