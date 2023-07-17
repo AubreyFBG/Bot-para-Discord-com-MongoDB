@@ -43,4 +43,4 @@ No arquivo Config.json, você deve colocar o token do seu bot, e a String de con
 <img  src="https://i.imgur.com/CQwSpts.jpg"> 
 <img  src="https://i.imgur.com/OxHsc7X.jpg"> 
 
-## 🍨・Bot feito por: Aubrey#2981
+## 🍨・Bot feito por: misss_aubrey
